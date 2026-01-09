@@ -1,4 +1,3 @@
 # i am learning from codanics
-# change 2
-
-
+# This is a sample README file for a project where I am learning from Codanics.
+# Codanics is an educational platform that provides coding tutorials and resources.
