@@ -23,4 +23,10 @@ when you create new environment, remember to install ipykernel also so that you 
 here is the link of documentation of wbdata library, https://wbdata.readthedocs.io/en/stable/
 here is the link of documentation of eurostat library, https://pypi.org/project/eurostat/
 
+```bash
+    pip install dtale
+```
+```bash
+    pip install pygwalker
+```
 
