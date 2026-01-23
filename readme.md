@@ -207,3 +207,4 @@ summary = lida.summarize("data/cars.csv")
 goals = lida.goals(summary, n=2) # exploratory data analysis
 charts = lida.visualize(summary=summary, goal=goals[0]) # exploratory data analysis
 ```
+
